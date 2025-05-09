@@ -98,7 +98,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: flase
+      comments: false
       share: false
       related: false
   # _pages
