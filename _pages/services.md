@@ -1,9 +1,9 @@
 ---
 permalink: /services/
 title: "Services"
+classes: wide
 ---
-# Services 
-* Sustainability / Green Building Consultant
+## Sustainability / Green Building Consultant
 * Strategy, roadmaps, plans & pathways
 * Climate resilience assessment & planning
 * Decarbonisation & net zero strategy
@@ -12,13 +12,13 @@ title: "Services"
 * Low carbon and environmental impact materials specification
 * Site masterplanning and climatic analysis
 
-# Asset Performance
+## Asset Performance
 * Due dilligence
 * Asset condition assessment
 * Issues investigation
 * Independent commissioning supervision and building tuning
 
-# Engineering Design
+## Engineering Design
 * Passive design - building fabric, glazing, ventilation, shading, daylight, glare control
 * Low energy HVAC system
 * Solar photovoltaic systems - battery, offsite, microgrid
@@ -28,7 +28,7 @@ title: "Services"
 * Energy and water metering and monitoring systems
 * Independent technical review
 
-# Project Planning, Management & Delivery
+## Project Planning, Management & Delivery
 * Design guidelines, brief / terms of reference
 * Feasibility study and business cases
 * Delivery and procurement strategy
