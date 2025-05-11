@@ -1,8 +1,10 @@
 ---
 title: "Projects"
-layout: collection
+layout: splash
 permalink: /projects/
-collection: projects
-entries_layout: grid
-classes: wide
 ---
+##
+## Projects
+Lions Hill
+
+Swanston Academic Building
