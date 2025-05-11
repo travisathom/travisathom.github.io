@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 layout: default
+author profile: false
 ---
 <center>
 <p style="margin-bottom: 1rem;">
