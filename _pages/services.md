@@ -1,7 +1,8 @@
 ---
-permalink: /services/
 title: "Services"
-layout: default
+layout: splash
+permalink: /services/
+author profile: false
 ---
 ## Sustainability / Green Building Consultant
 * Strategy, roadmaps, plans & pathways
