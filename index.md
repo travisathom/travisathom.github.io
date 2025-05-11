@@ -9,19 +9,19 @@ excerpt: Sustainability \| Building Engineer \| Project Manager
 feature_row:
   - image_path: /assets/images/Carlie_2_scaled.jpg
     alt: "Projects"
-    url: "/projects/"
+    url: "/pages/"
     btn_class: "btn--primary"
     btn_label: "Projects"
   - image_path: /assets/images/Books_cropped.jpeg
     alt: "Publications"
-    url: "/publications/"
+    url: "/pages/"
     btn_class: "btn--primary"
-    btn_label: "Publications"
+    btn_label: "Services"
   - image_path: /assets/images/BrainBuzz_original.jpg
     alt: "Media Appearances"
-    url: "/media_events/"
+    url: "/pages/"
     btn_class: "btn--primary"
-    btn_label: "Media and Events"
+    btn_label: "About"
 author_profile: false
 ---
 <center>
