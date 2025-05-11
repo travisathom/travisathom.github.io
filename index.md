@@ -21,7 +21,7 @@ feature_row:
     alt: "Posts"
     url: "/posts/"
     btn_class: "btn--primary"
-    btn_label: "Words"
+    btn_label: "Posts"
 author_profile: false
 ---
 <center>
