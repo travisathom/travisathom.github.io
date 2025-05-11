@@ -6,6 +6,22 @@ header:
   show_overlay_excerpt: true
   overlay_excerpt_max_width: truee
 excerpt: Sustainability \| Building Engineer \| Project Manager
+feature_row:
+  - image_path: /assets/images/Carlie_2_scaled.jpg
+    alt: "Projects"
+    url: "/projects/"
+    btn_class: "btn--primary"
+    btn_label: "Projects"
+  - image_path: /assets/images/Books_cropped.jpeg
+    alt: "Publications"
+    url: "/publications/"
+    btn_class: "btn--primary"
+    btn_label: "Publications"
+  - image_path: /assets/images/BrainBuzz_original.jpg
+    alt: "Media Appearances"
+    url: "/media_events/"
+    btn_class: "btn--primary"
+    btn_label: "Media and Events"
 author_profile: false
 ---
 <center>
@@ -16,3 +32,5 @@ I work as a freelance consultant helping individuals, organisations, governments
 Learn more about me or see what I'm up to now.
 </p>
 </center>
+
+{% include feature_row.html %}
