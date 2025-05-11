@@ -1,7 +1,6 @@
 ---
 permalink: /services/
 title: "Services"
-classes: wide
 layout: default
 ---
 ## Sustainability / Green Building Consultant
