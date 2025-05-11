@@ -6,6 +6,22 @@ header:
   show_overlay_excerpt: true
   overlay_excerpt_max_width: true
 excerpt: Sustainability \| Building Engineer \| Project Manager
+feature_row:
+  - image_path: /assets/images/Carlie_2_scaled.jpg
+    alt: "Projects"
+    url: "/projects/"
+    btn_class: "btn--primary"
+    btn_label: "Projects"
+  - image_path: /assets/images/Books_cropped.jpeg
+    alt: "Services"
+    url: "/services/"
+    btn_class: "btn--primary"
+    btn_label: "Services"
+  - image_path: /assets/images/BrainBuzz_original.jpg
+    alt: "Posts"
+    url: "/posts/"
+    btn_class: "btn--primary"
+    btn_label: "Posts"
 author_profile: false
 ---
 <left>
@@ -17,4 +33,4 @@ Learn more about me or see what I'm up to now.
 </p>
 </left>
 
-
+{% include feature_row.html %}
