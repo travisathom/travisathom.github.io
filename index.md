@@ -4,7 +4,7 @@ header:
   overlay_filter: rgba(5,50,125,0.5)
   overlay_image: /assets/images/banner_network_2.jpg
   show_overlay_excerpt: true
-  overlay_excerpt_max_width: truee
+  overlay_excerpt_max_width: true
 excerpt: Sustainability \| Building Engineer \| Project Manager
 feature_row:
   - image_path: /assets/images/Carlie_2_scaled.jpg
