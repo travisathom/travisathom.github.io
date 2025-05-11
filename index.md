@@ -1,5 +1,8 @@
 ---
-layout: home
+layout: splash
+header:
+  overlay_filter: rbga(5,50,125,0.5)
+  overlay_image: /assets/images/banner_network_2.jpg
 author_profile: false
 ---
 <p>Hey, I'm Travis - a sustainability consultant, building engineer & project manager.</p>
