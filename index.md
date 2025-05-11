@@ -8,20 +8,20 @@ header:
 excerpt: Sustainability \| Building Engineer \| Project Manager
 feature_row:
   - image_path: /assets/images/Carlie_2_scaled.jpg
-    alt: "Projects"
-    url: "/pages/"
+    alt: "About"
+    url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Projects"
+    btn_label: "About"
   - image_path: /assets/images/Books_cropped.jpeg
-    alt: "Publications"
-    url: "/pages/"
+    alt: "Services"
+    url: "/services/"
     btn_class: "btn--primary"
     btn_label: "Services"
   - image_path: /assets/images/BrainBuzz_original.jpg
-    alt: "Media Appearances"
-    url: "/pages/"
+    alt: "Projects"
+    url: "/projects/"
     btn_class: "btn--primary"
-    btn_label: "About"
+    btn_label: "Projects"
 author_profile: false
 ---
 <center>
