@@ -2,6 +2,11 @@
 title: "Projects"
 layout: splash
 permalink: /projects/
+feature_row2:
+  - image_path: /assets/images/projects/lions hill estate.png
+    alt: "placeholder image 2"
+    title: "Solar & Rainwater Harvesting Design Guidelines"
+    excerpt: '**Lions Hill Estate, Lusaka Zambia | 2025**"
 ---
 # Projects
 ## Solar and Rainwater Harvesting Design Guidelines
