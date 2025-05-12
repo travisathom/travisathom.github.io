@@ -1,10 +1,10 @@
 ---
 title: "Services"
-layout: splash
+layout: single
 permalink: /services/
 author profile: false
 ---
-## Sustainability / Green Building Consultant
+## Sustainability / Green Building Consulting
 * Strategy, roadmaps, plans & pathways
 * Climate resilience assessment & planning
 * Decarbonisation & net zero strategy

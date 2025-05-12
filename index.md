@@ -10,7 +10,6 @@ excerpt: Sustainability \| Green Buildings \| Energy Efficiency
 feature_row2:
   - image_path: /assets/images/index_projects.png
     alt: "placeholder image 2"
-    title: ""
     excerpt: "## I provide specialised green building and energy efficiency services to the Zambian property, building, and construction industry, backed by 20 years of international sustainability experience.
     
     ## I focus on listening to my clients, understanding their needs, and delivering tailored solutions that maximize resource efficiency, reduce environmental impact, and enhance resilience in our changing world. 

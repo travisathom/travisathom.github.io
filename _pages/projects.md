@@ -13,6 +13,8 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "Build to Rent Housing Development, Melbourne | **Sustainability Technical Advisor**"
 ---
+{% include feature_row %}
+
 # Projects
 ## Solar and Rainwater Harvesting Design Guidelines
 **Lions Hill Estate Lusaka, Zambia | 2025** 
