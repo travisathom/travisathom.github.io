@@ -10,13 +10,13 @@ feature_row:
   - image_path: /assets/images/projects/lions hill.png
     alt: "placeholder image 2"
     excerpt: "**Lions Hill Property Development**, Lusaka Zambia, 2025<br>
-     Solar photovoltaic, hot water & rainwater harvesting design guidelines"
+     Solar & Rainwater Harvesting Design Guidelines"
   - image_path: /assets/images/projects/homes vic.png
-    excerpt: "**Homes Victoria Social Housing GLM2**, Melbourne, 2023-24<br> Sustainability Technical Advisor, AECOM"
+    excerpt: "**Homes Victoria Social Housing GLM2**<br> Melbourne, 2023-24<br> Sustainability Technical Advisor"
   - image_path: /assets/images/projects/wilkins.png
     alt: "placeholder image 4"
-    excerpt: "**Mobile inland aviation facilities**, Wilkins Antarctica, 2022<br>
-     Masterplanning & design management, Australian Antarctic Division"
+    excerpt: "**Antarctic Mobile Inland Aviation Facilities**<br> Wilkins, Antartica, 2022<br>
+     Masterplanning & Design Management"
 ---
 
 {% include feature_row %}
