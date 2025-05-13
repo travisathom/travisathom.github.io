@@ -110,7 +110,7 @@ feature_row:
 
   - image_path: /assets/images/projects/vichvac.png
     excerpt: "**Policy, Engineering & Climate Analysis**<br>
-    Thermal comfort policy review, Department of Education<br> 
+    Thermal Comfort Policy Review, Education Department<br> 
     Victoria Australia, AECOM, 2012"
 
   - image_path: /assets/images/projects/designhub.png
