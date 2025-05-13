@@ -4,9 +4,9 @@ layout: splash
 permalink: /projects/
 feature_row:
   - image_path: /assets/images/projects/lions hill.png
-    image_caption: "Lions Hill Estate (https://www.lionshillproperties.com/)"
+    image_caption: "[Lions Hill Estate] (https://www.lionshillproperties.com/)"
     excerpt: "**Solar & Rainwater Harvesting Design Guidelines**<br>
-    Lion's Hill Estate, Roma Park Developments**<br> 
+    Lion's Hill Estate, Roma Park Developments<br> 
     Lusaka Zambia, NAEC, 2025"
 
   - image_path: assets/images/projects/rmit sab.png
