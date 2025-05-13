@@ -9,13 +9,13 @@ feature_row:
     Lusaka Zambia, NAEC, 2025"
 
   - image_path: assets/images/projects/gas sub1.png
-    excerpt: "**Health Facility Decarbonisation Strategy**<br> 
+    excerpt: "**Health Department Decarbonisation Strategy**<br> 
     Gas Substitution Roadmap, Victorian Health<br>
     Melbourne Australia, AECOM, 2023-24"
 
   - image_path: assets/images/projects/iaqact.png
-    excerpt: "**School Indoor Air Quality Technical Advisory**<br> 
-    IAQ Strategy & Action Plan, Education Directorate<br>
+    excerpt: "**Education Department Indoor Air Quality Plan**<br> 
+    IAQ Policy Review & Action Plan, Education Directorate<br>
     Canberra Australia, AECOM 2023-24"
 
   - image_path: assets/images/projects/homes vic.png
@@ -79,7 +79,7 @@ feature_row:
     Melbourne Australia, AECOM, 2012-16"
 
   - image_path: /assets/images/projects/uoamed.png
-    excerpt: "**Lead Sustainability Consulting**<br>
+    excerpt: "**Sustainability Consulting**<br>
     Medical and Nursing School, Uni of Adelaide<br> 
     Adelaide Australia, AECOM 2012-16"
 
