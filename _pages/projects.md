@@ -34,7 +34,7 @@ feature_row:
     Wilkins Antarctica, 2021-22"
 
   - image_path: /assets/images/projects/macca.png
-    excerpt: "**Project, Governance & Design Management**<br>
+    excerpt: "**Project & Design Management**<br>
     Scientific Research Station Modernisation, AAD<br> 
     Macquarie Island Sub Antarctica, 2016-22"
 
