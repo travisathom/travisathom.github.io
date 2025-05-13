@@ -14,7 +14,7 @@ feature_row:
     Melbourne Australia, AECOM, 2023-24"
 
   - image_path: assets/images/projects/iaqact.png
-    excerpt: "**School Indoor Air Quality Techanical Advisory**<br> 
+    excerpt: "**School Indoor Air Quality Technical Advisory**<br> 
     IAQ Strategy & Action Plan, Education Directorate<br>
     Canberra Australia, AECOM 2023-24"
 
