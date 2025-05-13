@@ -14,17 +14,17 @@ feature_row:
     Melbourne Australia, AECOM, 2023-24"
 
   - image_path: assets/images/projects/iaqact.png
-    excerpt: "**Engineering Technical Advisory**<br> 
-    Indoor Air Quality Strategy, Education Directorate<br>
+    excerpt: "**School Indoor Air Quality Techanical Advisory**<br> 
+    IAQ Strategy & Action Plan, Education Directorate<br>
     Canberra Australia, AECOM 2023-24"
 
   - image_path: assets/images/projects/homes vic.png
-    excerpt: "**Client Sustainability Technical Advisor**<br> 
+    excerpt: "**Client-side Sustainability Technical Advisor**<br> 
     Social Housing Development, Homes Victoria<br>
     Hampton East & Prahan Aust, AECOM, 2023-24"
 
   - image_path: /assets/images/projects/fishbend.png
-    excerpt: "**Sustainability Technical Leadership**<br>
+    excerpt: "**Project Sustainability Leadership**<br>
     New Engineering Campus, Uni. of Melb.<br> 
     Fishermans Bend Aust, AECOM, 2022-24"
 
@@ -39,27 +39,27 @@ feature_row:
     Macquarie Island Sub Antarctica, 2016-22"
 
   - image_path: /assets/images/projects/polarmed.png
-    excerpt: "**Design & Delivery Leadership**<br>
+    excerpt: "**Stakeholder & Design Management**<br>
     Containerised Polar Medical Facility, AAD<br> 
     Hobart Australia, 2020-22"
 
   - image_path: /assets/images/projects/rmitnas.png
-    excerpt: "**Lead Sustainability Design Consulting**<br>
+    excerpt: "**Sustainability Design Consulting**<br>
     New Academic Street Upgrades, RMIT <br> 
     Melbourne Australia, AECOM, 2012-17"
 
   - image_path: /assets/images/projects/monashpen.png
-    excerpt: "**Sustainability & Net Zero Master planning**<br>
+    excerpt: "**Sustainability & Net Zero Master Planning**<br>
     Peninsula Campus, Monash University<br> 
     Frankston Australia, AECOM, 2016"
 
   - image_path: /assets/images/projects/mawson.png
     excerpt: "**Building & Engineering Site Investigations**<br>
     Strategic Infrastructure Assessment<br> 
-    Macquarie Island & Mawson, Antarctica, AECOM, 2016"
+    Macq. Island & Mawson, Antarctica, AECOM, 2016"
 
   - image_path: assets/images/projects/uqchem.png
-    excerpt: "**Lead Sustainability Design Consulting**<br> 
+    excerpt: "**Sustainability Design Consulting**<br> 
     Chemical Eng. Lab. Building, Uni. of Queensland<br>
     Brisbane Australia, AECOM, 2016"
 
@@ -104,7 +104,7 @@ feature_row:
     Melbourne Australia, AECOM, 2013"
 
   - image_path: /assets/images/projects/41x.png
-    excerpt: "**Lead Mechanical Services & Sustainability Design**<br>
+    excerpt: "**Low Carbon Mechanical Services Design**<br>
     41X office, Australian Institute of Architects<br> 
     Melbourne Australia, AECOM, 2009-13"
 
