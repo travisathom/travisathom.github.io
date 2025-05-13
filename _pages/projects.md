@@ -4,10 +4,14 @@ layout: splash
 permalink: /projects/
 feature_row:
   - image_path: /assets/images/projects/lions hill.png
-    image_caption: "[Lions Hill Estate] (https://www.lionshillproperties.com/)"
     excerpt: "**Solar & Rainwater Harvesting Design Guidelines**<br>
     Lion's Hill Estate, Roma Park Developments<br> 
     Lusaka Zambia, NAEC, 2025"
+
+  - image_path: assets/images/projects/gas sub1.png
+    excerpt: "**Decarbonisation Strategy**<br> 
+    Gas Substitution Roadmap, Victorian Health<br>
+    Melbourne Aust., AECOM, 2023-24"
 
   - image_path: assets/images/projects/rmit sab.png
     excerpt: "**RMIT University Swanston Academic Building**<br> 
