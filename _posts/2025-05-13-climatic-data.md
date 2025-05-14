@@ -34,8 +34,8 @@ But doesn't neccessarily test passive design initiatives such as natural ventila
 Some of the limitations of the datasets can include:
 * A lack of rainfall data for some locations
 
-### Example climate analysis outputs that I find useful, Lusaka Zambia
-Some of the basic conclusions that can be drawn from high level climate analysis illustrated in the analysis below include:
+### Example climate analysis for Lusaka Zambia
+Some of the basic conclusions that can be drawn from high level climate analysis (Lusaka International Aiport TRY) illustrated in the analysis below includes:
 
 #### Climate Summary
 * The Koppen Geiger Climate Zone: Cwa, Humid Subtropical, dry winter <br>
