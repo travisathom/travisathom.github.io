@@ -1,9 +1,8 @@
 ---
 title: "A blog of simple ideas"
-date: 2025-05-12T10:00:00-04:00
+date: 2025-05-07T10:00:00-04:00
 categories:
-  - Green buildings
-  - Better buildings
+  - Green Buildings 
 ---
 A blog sharing my simple ideas on how to make our buildings better.
 Buildings where we spend ever increasing amounts of our time. 
@@ -12,12 +11,10 @@ My focus will be exploring opportunities in Lusaka, Zambia - the city that I liv
 
 A place where I see so much potential to improve the way we design, build, renovate, maintain and operate our buildings - our homes, workplaces, hospitals, schools etc.
 
-My goal is to provide resources and ideas that help the Zambian industry deliver better buildings, known commonly as Green Buildings. My yardstick is providing the information that that help design Green Buildings in Zambia that I can't find online. 
+My goal is to provide resources and ideas that help the Zambian construction industry deliver better buildings, known commonly as Green Buildings. My yardstick - to provide the Zambianinformation that I can't find online - information that helps design Green Buildings in Zambia. 
+My goal is to provide resources and ideas that help the Zambian construction industry deliver better buildings, known commonly as Green Buildings. My yardstick - to provide the Zambian specific green building information. Information, that I've searched for and cannot find online.
 
-**To help make our buildings a little better - healthier, resilient and greener.**
-
-
-
+**Help make our buildings a little greener - healthier, resilient and sustainable.**
 
 <!--
 WORKING 
