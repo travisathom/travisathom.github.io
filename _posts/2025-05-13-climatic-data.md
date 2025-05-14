@@ -1,12 +1,8 @@
 ---
-title: "Post: Climatic data for Green Building design in Zambia"
+title: "Climatic data for Green Building design in Zambia"
 date: 2025-05-13T15:34:30-04:00
 categories:
-  - Blog
-tags:
-  - Jekyll
-  - update
-classes: wide
+  - Green Buildings
 ---
 * Green Building design using climatic data - typically test reference year
 * Quality data hard to come for many developing countries due to lack of 
