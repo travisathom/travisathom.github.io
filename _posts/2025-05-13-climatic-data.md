@@ -4,6 +4,11 @@ date: 2025-05-13T15:34:30-04:00
 categories:
   - Green Buildings
 ---
+A blog of simple ideas 
+
+
+
+
 * Green Building design using climatic data - typically test reference year
 * Quality data hard to come for many developing countries due to lack of 
 * Rubbish in is equal to rubbish out
