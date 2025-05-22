@@ -1,6 +1,6 @@
 ---
 title: "Solar PV planning - finding the sweet spot"
-date: 2025-05-22T10:00:00-04:00
+date: 2025-05-21T10:00:00-04:00
 categories:
   - Solar PV
   - Green Buildings
