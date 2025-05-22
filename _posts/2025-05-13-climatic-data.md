@@ -1,5 +1,5 @@
 ---
-title: "Climatic data for Green Building design in Zambia"
+title: "Climatic data for green building design in Zambia"
 date: 2025-05-12T10:00:00-04:00
 categories:
   - Green Buildings
