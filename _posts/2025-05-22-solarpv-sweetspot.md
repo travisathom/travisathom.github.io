@@ -6,11 +6,11 @@ categories:
 ---
 When planning the orientation and form of your building, one should ideally optimise the direction and tilt angle of solar PV panels, maximising the potential solar energy collected.
 
-Best practice guidance often advises only this "bulls eye", an optimal panel configuration. However, this is not always possible. There are many instances where it not feasible to optimally configure the building or roof to maximise solar energy generation.
+Best practice guidance often advises only the "bulls eye", an optimal panel configuration. However, this is not always possible. There are many instances where it not feasible to optimally configure the building or roof to maximise solar energy generation.
 
 I prefer to also identify a "sweet spot" where solar panels can collect 95% of the annual solar energy in their optimum configuration.
 
-In my experience this approach often provides designers with sufficient flexibility that they can strike a more realistic balance between overcoming architectural planning constraints and still maximise solar energy potential.
+In my experience this approach often provides designers with sufficient flexibility to strike a more realistic balance between overcoming architectural planning constraints and still maximising solar energy generation potential.
 
 The table that follow highlights the bulls eye and sweet spot configurations for fixed solar PV panels installed in Lusaka, Zambia.
 
