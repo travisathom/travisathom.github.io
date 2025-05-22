@@ -1,8 +1,9 @@
 ---
-title: "Solar PV planning: finding the sweet spot"
+title: "Solar PV planning - finding the sweet spot"
 date: 2025-05-22T10:00:00-04:00
 categories:
   - Solar PV
+  - Green Buildings
 ---
 When planning the orientation and form of your building, one should ideally optimise the direction and tilt angle of solar PV panels, maximising the potential solar energy collected.
 
